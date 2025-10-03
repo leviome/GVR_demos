@@ -1,6 +1,6 @@
 # Demos
 
-## Gallery
+## Objects Found by GVR
 <table>
     <tr>
         <td align="center">
