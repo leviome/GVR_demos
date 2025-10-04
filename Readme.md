@@ -23,7 +23,7 @@
     <tr>
         <td align="center">
             <img src="gallery/garlic.gif" width="160"/><br/>
-            <b>Garlic</b>
+            <b>Fabric Pumpkin</b>
         </td>
         <td align="center">
             <img src="gallery/red_chair.gif" width="160"/><br/>
