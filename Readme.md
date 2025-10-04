@@ -35,7 +35,7 @@
         </td>
         <td align="center">
             <img src="gallery/yellow_duck.gif" width="160"/><br/>
-            <b>Yellow Dog</b>
+            <b>Yellow Duck</b>
         </td>
     </tr>
 </table>
