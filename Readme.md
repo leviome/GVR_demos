@@ -44,12 +44,5 @@
 
 ## Videos
 
-<video width="480" controls>
-    <source src="videos/lady_in_red_dress.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+https://www.youtube.com/embed/A9JzIvai5cQ
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/A9JzIvai5cQ" frameborder="0" allowfullscreen></iframe>
-
-
-#
