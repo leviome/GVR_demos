@@ -42,7 +42,9 @@
 
 
 
-## Videos
+## Video Demo
 
-https://www.youtube.com/embed/A9JzIvai5cQ
+click to play
+
+[![Video Thumbnail](https://img.youtube.com/vi/A9JzIvai5cQ/0.jpg)](https://www.youtube.com/watch?v=A9JzIvai5cQ)
 
