@@ -46,5 +46,7 @@
 
 click to play
 
+https://raw.githubusercontent.com/leviome/GVR_demos/main/videos/GVR_video_demo.mp4
+
 [![Video Thumbnail](https://img.youtube.com/vi/A9JzIvai5cQ/0.jpg)](https://www.youtube.com/watch?v=A9JzIvai5cQ)
 
